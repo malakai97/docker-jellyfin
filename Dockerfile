@@ -24,7 +24,7 @@ RUN \
   apt-get install -y --no-install-recommends \
     at \
     jellyfin-server=${JELLYFIN_RELEASE} \
-    jellyfin-ffmpeg5 \
+    jellyfin-ffmpeg6 \
     jellyfin-web \
     libfontconfig1 \
     libfreetype6 \
